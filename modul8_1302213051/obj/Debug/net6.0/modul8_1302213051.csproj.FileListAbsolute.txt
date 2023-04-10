@@ -1,0 +1,17 @@
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\bin\Debug\net6.0\modul8_1302213051.exe
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\bin\Debug\net6.0\modul8_1302213051.deps.json
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\bin\Debug\net6.0\modul8_1302213051.runtimeconfig.json
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\bin\Debug\net6.0\modul8_1302213051.dll
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\bin\Debug\net6.0\modul8_1302213051.pdb
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\modul8_1302213051.csproj.AssemblyReference.cache
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\modul8_1302213051.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\modul8_1302213051.AssemblyInfoInputs.cache
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\modul8_1302213051.AssemblyInfo.cs
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\modul8_1302213051.csproj.CoreCompileInputs.cache
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\modul8_1302213051.csproj.CopyComplete
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\modul8_1302213051.dll
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\refint\modul8_1302213051.dll
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\modul8_1302213051.pdb
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\modul8_1302213051.genruntimeconfig.cache
+D:\Kuliah\C#\modul8_1302213051\modul8_1302213051\obj\Debug\net6.0\ref\modul8_1302213051.dll
